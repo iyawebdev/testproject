@@ -21,6 +21,7 @@
 
         <ul>
             <li>Patrick Dent</li>
+            <li>Student 2</li>
             <!-- add more -->
         </ul>
 
