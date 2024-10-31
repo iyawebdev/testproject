@@ -1,1 +1,1 @@
-<h2>Group project</h2>
+<h2>Our Group project</h2>
