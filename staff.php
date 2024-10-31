@@ -23,6 +23,8 @@
             <li>Patrick Dent</li>
             <li>Student 2</li>
 <li>Student 3</li>
+
+<li>Studet 6</li>
             <!-- add more -->
         </ul>
 
